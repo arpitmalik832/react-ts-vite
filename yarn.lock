@@ -3334,10 +3334,10 @@
     redux-thunk "^3.1.0"
     reselect "^5.1.0"
 
-"@release-it/conventional-changelog@^9.0.0":
-  version "9.0.0"
-  resolved "https://registry.yarnpkg.com/@release-it/conventional-changelog/-/conventional-changelog-9.0.0.tgz#5a2e5bbead22cb00e75a09477a38c75880b0a26d"
-  integrity sha512-jISIZ3kFR/xxBlDlbLBdQJsIDaml6NzTueAps3uZV2GDnQhe6FytCAmztiyEXRvCBXIvVV4X/O9S2l5zt2vmbA==
+"@release-it/conventional-changelog@^9.0.3":
+  version "9.0.3"
+  resolved "https://registry.yarnpkg.com/@release-it/conventional-changelog/-/conventional-changelog-9.0.3.tgz#4d8a4b07a7bba8c6ed151ea8ae75bca15d3219eb"
+  integrity sha512-+3TL+B89Kc+VTbfGxpTvJkbegWt5XIzkovsYVJyoZpOZDG07v25FU8c5R5Q8yNUs76Ikfq0sp+ZTTxmefG4Hiw==
   dependencies:
     concat-stream "^2.0.0"
     conventional-changelog "^6.0.0"
