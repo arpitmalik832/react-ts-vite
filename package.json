@@ -67,7 +67,7 @@
     "prettier": "prettier --check",
     "lint": "pnpm lint-js \"**/*.{mts,cts,ts,tsx,mjs,cjs,js,jsx,mdx}\" && pnpm lint-css \"**/*.{css,scss}\" && pnpm prettier .",
     "lint-js:fix": "pnpm lint-js --fix",
-    "lint-css:fix": "pnpm lint-css --fix",
+    "lint-css:fix": "pnpm lint-css --fix strict",
     "prettier:fix": "prettier --write --ignore-unknown",
     "lint:fix": "pnpm lint-js:fix \"**/*.{mts,cts,ts,tsx,mjs,cjs,js,jsx,mdx}\" && pnpm lint-css:fix \"**/*.{css,scss}\" && pnpm prettier:fix .",
     "lint-staged": "lint-staged",
